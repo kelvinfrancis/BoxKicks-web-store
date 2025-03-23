@@ -1,0 +1,33 @@
+
+## BoxKicks - Reserva de Calzados Deportivos
+
+
+### Descripción
+
+BoxKicks es una página web diseñada para promover y reservar zapatos deportivos. La página combina un diseño limpio y moderno con funcionalidades interactivas como menús, secciones informativas y un carrusel de imágenes.
+
+#### Características Principales
+
+- Menú responsive con enlaces a las secciones principales: Inicio, Nosotros, Catálogo y Contactos.
+
+- Iconos de redes sociales integrados con Bootstrap Icons.
+
+- Encabezado llamativo con título, texto promocional e imagen destacada. Botón de acción: “Reserva ya!”.
+
+- Información sobre la tienda y su propósito. Imagen descriptiva para acompañar el texto.
+
+- Información de contacto con iconos de redes sociales. Número telefónico destacado.
+
+- Carrusel interactivo para mostrar futuros calzados.
+
+- Catálogo de calzados disponibles, con un dropdown de selección para sizes y botón de reserva.
+
+### Tecnologías Utilizadas
+	•	HTML5: Estructura de la página.
+	•	CSS3: Estilos personalizados en styles.css.
+	•	Bootstrap 5.3: Framework para diseño responsive y componentes interactivos.
+	•	Bootstrap Icons: Iconos para redes sociales y otros elementos.
+	•	JavaScript: Bootstrap JS para funcionalidades como el carrusel y el menú desplegable.
+
+## Créditos 
+### &copy; 2024 Kelvin Francisco Moquete Peña
